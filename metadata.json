@@ -1,0 +1,6 @@
+{
+  "name": "Future Makers Pathway",
+  "description": "Comprehensive 4-year curriculum delivery, workshop device orchestration, student portfolio tracking, and human-in-the-loop adaptive milestone feedback platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
